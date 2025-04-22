@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.npy
+*.csv
+
+# Flask uploads
+backend/uploads/
+backend/processed/
+
+# Node
+node_modules/
+build/
+dist/
+
+# React
+frontend/node_modules/
+frontend/build/
+frontend/.env
+.DS_Store
